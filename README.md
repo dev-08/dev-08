@@ -86,5 +86,9 @@ I’m especially interested in AI-augmented backend systems—where LLMs support
 
 🌐 Open to collaborations on backend-heavy, system design–focused projects and building software that’s not just smart, but robust, scalable, and impactful
 
+## 📄 Resume
+
+📥 [Download My Resume](https://github.com/your-username/your-repo/raw/main/Dev_Patel_Resume.pdf)
+
 - 📫 How to reach me: &nbsp; [<img align = "center" alt="Dev Patel | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/dev-p-patel/) &nbsp; &nbsp; [<img align = "center" alt=" Dev Patel | Mail" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:devsp08@gmail.com) &nbsp;
 
